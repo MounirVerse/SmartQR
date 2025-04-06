@@ -13,8 +13,7 @@
 
 ---
 
-![SmartQR Interface](assets/screenshot.png) <!-- Make sure to add the screenshot image in the /assets folder -->
-
+![SmartQR Interface](assets/screenshot.png) 
 ---
 
 ## ✨ Features
