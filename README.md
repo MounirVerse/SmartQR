@@ -14,7 +14,6 @@
 ---
 
 ![SmartQR Interface](assets/screenshot.png) 
-![SmartQR Interface](assets/screenshot2.png)
 ---
 
 ## ✨ Features
